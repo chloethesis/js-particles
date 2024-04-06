@@ -1,3 +1,5 @@
 <h2 align="left">
-  Js Particles
+  <samp>
+  Js Particles 🥇
+  </samp>
 </h2>
