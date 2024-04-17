@@ -1,7 +1,5 @@
-// JavaScript Document<script type='text/javascript'>
-            // <![CDATA[
-            var colour="green";
-            var sparkles=65;
+            var colour="white";
+            var sparkles=80;
      
             var x=ox=400;
             var y=oy=300;
@@ -146,13 +144,10 @@
             }
             function createDiv(height, width) {
               var div=document.createElement("div");
-              div.style.position="fixed";
+              div.style.position="absolute";
               div.style.height=height+"px";
               div.style.width=width+"px";
               div.style.overflow="hidden";
               div.style.backgroundColor=colour;
               return (div);
             }
-            // ]]>
-
-
